@@ -1,18 +1,20 @@
+### Hi, I'm Ian 👋
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding Animation"/>
-</div>
+#### You can check out my personal website @ ([ianhoang.dev](https://www.ianhoang.dev/))! ⚒️
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ian-hoang&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats"/>
-</div>
+#### about me:
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
+- computer science @ [university of florida](https://www.ufl.edu/)
+- incoming swe intern @ google (summer 2026)
+- prev swe intern @ deepchatbi
+- research assistant @ ecosystem geoAI lab
 
-<div align="center">
-  <a href="mailto:ianhoang.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-</div>
+#### random facts:
+
+- i can bend my thumb 90 degrees
+- my fav anime is one piece
+- good at terraforming mars, a strategic boardgame
+- like learning about algorithms and infra
+- born and raised in saigon, vn
+
+---------------
