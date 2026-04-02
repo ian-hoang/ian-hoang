@@ -5,16 +5,16 @@
 #### about me:
 
 - computer science @ [university of florida](https://www.ufl.edu/)
-- incoming swe intern @ google (summer 2026)
+- incoming @ google (summer 2026)
 - prev swe intern @ deepchatbi
 - research assistant @ ecosystem geoAI lab
 
 #### random facts:
 
-- i can bend my thumb 90 degrees
-- my fav anime is one piece
-- good at terraforming mars, a strategic boardgame
-- like learning about algorithms and infra
-- born and raised in saigon, vn
+- can bend my thumb 90°
+- one piece fan
+- good at terraforming mars
+- like algorithms and infra
+- born & raised in saigon, vn
 
 ---------------
