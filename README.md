@@ -9,12 +9,4 @@
 - prev swe intern @ deepchatbi
 - research assistant @ ecosystem geoAI lab
 
-#### random facts:
-
-- can bend my thumb 90°
-- one piece fan
-- good at terraforming mars
-- like algorithms and infra
-- born & raised in saigon, vn
-
 ---------------
