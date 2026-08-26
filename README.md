@@ -4,9 +4,6 @@
 
 #### about me:
 
-- computer science @ [university of florida](https://www.ufl.edu/)
-- incoming @ google (summer 2026)
-- prev swe intern @ deepchatbi
-- research assistant @ ecosystem geoAI lab
-
+- cs @ [university of florida](https://www.ufl.edu/)
+- eng @ google
 ---------------
