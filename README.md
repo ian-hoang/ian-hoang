@@ -1,6 +1,6 @@
 ### Hi, I'm Ian 👋
 
-#### You can check out my personal website @ ([ianhoang.dev](https://www.ianhoang.dev/))! ⚒️
+#### You can check out my personal website @ ([ianhoang.dev](https://www.ianhoang.dev/))
 
 #### about me:
 
