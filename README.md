@@ -1,9 +1,10 @@
-### Hi, I'm Ian 👋
+### wassup my name is Ian
 
-#### You can check out my personal website @ ([ianhoang.dev](https://www.ianhoang.dev/))
+#### check out my personal website @ ([ianhoang.dev](https://www.ianhoang.dev/))
 
 #### about me:
 
 - cs @ [university of florida](https://www.ufl.edu/)
-- eng @ google
+- swe @ [google](https://github.com/google)
+- poker, ping pong, one piece, terraforming mars
 ---------------
